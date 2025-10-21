@@ -1,4 +1,4 @@
-# Functipn for Youtube Link 🎥
+# Function for Youtube Link 🎥
 
 A Python script that fetches YouTube video links based on a search query using the **YouTube Data API v3**. The tool returns video titles and URLs for easy access.
 
